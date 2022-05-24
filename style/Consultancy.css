@@ -9,6 +9,10 @@
 	display: inline-block;
 }
 
+@media (pointer:none), (pointer:coarse) {
+        .card{width: auto;} 
+} 
+
 section{
 	margin-bottom: 10vh;
 }
