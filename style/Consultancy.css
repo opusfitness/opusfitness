@@ -1,0 +1,22 @@
+.pricing{
+	margin:  auto;
+}
+
+.card{
+	margin-top: 10vh;
+	width: 31vw;
+	border-radius: 20px;
+	display: inline-block;
+}
+
+@media (pointer:none), (pointer:coarse) {
+        .card{width: auto;} 
+} 
+
+section{
+	margin-bottom: 10vh;
+}
+
+nav{
+	margin-bottom: 5vh;
+}
